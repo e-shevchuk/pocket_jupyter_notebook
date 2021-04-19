@@ -1,0 +1,10 @@
+numpy
+pandas
+notebook
+nbconvert<6
+jupyterthemes
+ipywidgets
+jupyter_contrib_nbextensions
+scikit-learn
+statsmodels
+altair>=4.1.0,<4.2.0
