@@ -36,6 +36,11 @@ help_l1=$'Usage: jpt <parameter>
     bash  - log into the container with bash (if it is launched)
 '
 
+# CONTAINER PLUGGING-IN PATH
+
+# Process the path where to plug the container for docker-compose.yml
+export current_path=$(pwd)
+
 # DOCKER MANIPULATIONS 
 
 # Build
