@@ -31,7 +31,7 @@ help_l1=$'Usage: jpt <parameter>
     start - start service
     up    - create container
     down  - destroy container
-    build - destroy container
+    build - build container
 
     bash  - log into the container with bash (if it is launched)
 '
