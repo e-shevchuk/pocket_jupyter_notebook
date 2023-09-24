@@ -1,13 +1,5 @@
+mysql-connector-python
 numpy
 pandas
-notebook
-nbconvert<6
-jupyterthemes
-ipywidgets
-jupyter_contrib_nbextensions
-scikit-learn
-statsmodels
-altair>=4.1.0,<4.2.0
 sqlalchemy
-pyTelegramBotAPI
-sh>=1.14.1,<1.15.0
+sh
