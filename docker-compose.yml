@@ -8,3 +8,4 @@ services:
       - "8888:8888"
     volumes:
       - ${current_path}:/home/jovyan
+      - ./jupyter_notebook_config.py:/home/jovyan/.jupyter/jupyter_notebook_config.py
